@@ -6,4 +6,4 @@ This quickstart provides a starting point for Angular 2 projects.
 
 * This quickstart is based entirely from the Angular 2 website.
 * It consists of an application that produces "Hello World!" in the browser window.
-* Further details are available at [5 Min Quickstart](http://nodejs.org).
+* Further details are available at [5 Min Quickstart](https://angular.io/docs/ts/latest/quickstart.html).
